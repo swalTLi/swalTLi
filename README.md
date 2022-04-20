@@ -6,6 +6,7 @@
 - 🛹 个人网站: http://iphone7.plus/
 - 🙌 码云gitee: https://gitee.com/swalTldq
 - 😊 掘金：https://juejin.cn/user/4441682708804007
+- 🦄 语雀: https://www.yuque.com/u2402848
 <!---
 swalTLi/swalTLi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
